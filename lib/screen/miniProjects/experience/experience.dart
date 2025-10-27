@@ -48,16 +48,6 @@ class Experience extends StatelessWidget {
               children: experience.bulletPoints.map((bulletPoint) {
                 return ListTile(
                   contentPadding: const EdgeInsets.symmetric(horizontal: 15.0),
-                  // leading: const Icon(Icons.arrow_right),
-                  // title: Text(bulletPoint),
-                  // contentPadding: const EdgeInsets.symmetric(horizontal: 16.0),
-                  // leading: Container(
-                  //   width: 5,
-                  //   height: 5,
-                  //   decoration: BoxDecoration(
-                  //       borderRadius: BorderRadius.circular(100),
-                  //       color: Colors.black),
-                  // ),
                   title: Row(
                     children: [
                       const SizedBox(

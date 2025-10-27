@@ -15,14 +15,14 @@ class Projects extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               ProjectItem(
+                title: "SMS verification using Go",
+                description: "RESTful API in Go integrating Twilio Verify service for SMS-based OTP authentication",
+                link: "https://github.com/rohitchauhanrc/sms-verification-using-go",
+              ),
+              ProjectItem(
                 title: "Cinemania",
                 description: "A movie app built using Flutter and TMDB API.",
                 link: "https://github.com/rohitchauhanrc/movie_search_app",
-              ),
-              ProjectItem(
-                title: "EzPay",
-                description: "A digital payment solution using Flutter and Firebase.",
-                link: "https://github.com/rohitchauhanrc/payment-app-ui",
               ),
               ProjectItem(
                 title: "Instagram Clone",

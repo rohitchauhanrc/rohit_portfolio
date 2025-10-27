@@ -173,13 +173,13 @@ final List<JobExperience> education = [
 List<JobExperience> jobExperiences = [
   JobExperience(
     color: Colors.blue,
-    location: "Bhopal, India",
-    title: 'App Developer',
-    company: 'Asper',
-    startDate: 'Jan 2023',
-    endDate: 'Jan 2024',
+    location: "Remote",
+    title: 'Mobile App Developer Intern',
+    company: 'Bluvin Solutions Pvt Ltd',
+    startDate: 'Aug 2025',
+    endDate: 'Present',
     bulletPoints: [
-      "Developed various applications using Flutter and Dart, demonstrating quick learning of new technologies.",
+      "Developing various applications using Flutter and Dart, demonstrating quick learning of new technologies.",
       "Self-initiated projects and demonstrated strong self-motivation throughout the development process.",
     ],
   ),
@@ -202,7 +202,7 @@ const String linkedIn = "https://www.linkedin.com/in/rohitchauhanrc/";
 const String github = "https://github.com/rohitchauhanrc";
 const String twitter = "https://x.com/_RohitChauhan__";
 const String resumeLink =
-    "https://drive.google.com/file/d/1FVd1bbf8_lp1V8Yfm2SoWmUriw0NAu30/view?usp=sharing";
+    "https://drive.google.com/file/d/1Ix3uOS3jbcVa_Tjfsq99Sk_LHar1pqvD/view?usp=sharing";
 const String email = "rohitchauhanreal@gmail.com";
 String introduction =
     "Welcome to website, I am a passionate and results-driven Software Developer with expertise in mobile and web development. With hands-on experience in Flutter, React, and modern web technologies, I have successfully built and deployed scalable applications. My strong foundation in data structures, algorithms, and problem-solving allows me to write efficient and optimized code. I am always eager to learn new technologies and contribute to impactful projects." +
@@ -231,10 +231,6 @@ List<SkillsModel> skills = [
   ),
   SkillsModel(
     skillName: "CSS",
-    colorS: Colors.brown,
-  ),
-  SkillsModel(
-    skillName: "JavaScript",
     colorS: Colors.brown,
   ),
   SkillsModel(
