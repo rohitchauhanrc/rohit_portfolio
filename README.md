@@ -1,16 +1,30 @@
-# rohit_portfolio
+Here’s a short and clean **README.md** you can use for your Flutter portfolio project:
 
-A new Flutter project.
+````markdown
+# Rohit Portfolio 🚀
 
-## Getting Started
+A modern personal portfolio built with **Flutter** to showcase projects, skills, and achievements.
 
-This project is a starting point for a Flutter application.
+🔗 **Live Demo:** [View Portfolio](http://rohitchauhanportfolio.web.app/)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- Flutter  
+- Dart  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
+To run this project locally:
+```bash
+git clone https://github.com/your-username/rohit_portfolio.git
+cd rohit_portfolio
+flutter pub get
+flutter run
+````
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+```
+
+Would you like me to make it more visually styled (with emojis, badges, etc.) or keep it minimal like this?
+```
